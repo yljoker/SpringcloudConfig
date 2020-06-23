@@ -8,6 +8,6 @@ zuul:
       serviceId: service-feign
     api-b:
       path: /api-c/**
-      serviceId: service-zull
+      serviceId: service-zuul
 
 file-path: /usr/local/java
