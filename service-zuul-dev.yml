@@ -10,4 +10,4 @@ zuul:
       path: /api-c/**
       serviceId: service-zuul
 
-file-path: /usr/local/java/change
+file-path: /usr/local/java/change1
